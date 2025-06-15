@@ -1,0 +1,10 @@
+Package           Version
+----------------- -------
+beautifulsoup4    4.13.3
+iniconfig         2.0.0
+packaging         24.2
+pip               25.0
+pluggy            1.5.0
+pytest            8.3.5
+soupsieve         2.6
+typing_extensions 4.12.2

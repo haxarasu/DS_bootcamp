@@ -1,0 +1,15 @@
+Fri Mar 14 18:39:17 2025    financial.prof
+
+         374520 function calls (372615 primitive calls) in 1.857 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1280 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    1.858    1.858 /Users/haxarasu/Code/school_21/DS_bootcamp/DS_Bootcamp.Day03-1/ex04/financial_enhanced.py:15(get_data)
+        1    0.000    0.000    1.741    1.741 /Users/haxarasu/Code/school_21/DS_bootcamp/DS_Bootcamp.Day03-1/ex04/salvados/lib/python3.13/site-packages/httpx/_api.py:174(get)
+        1    0.000    0.000    1.741    1.741 /Users/haxarasu/Code/school_21/DS_bootcamp/DS_Bootcamp.Day03-1/ex04/salvados/lib/python3.13/site-packages/httpx/_api.py:39(request)
+        1    0.000    0.000    1.702    1.702 /Users/haxarasu/Code/school_21/DS_bootcamp/DS_Bootcamp.Day03-1/ex04/salvados/lib/python3.13/site-packages/httpx/_client.py:771(request)
+        1    0.000    0.000    1.702    1.702 /Users/haxarasu/Code/school_21/DS_bootcamp/DS_Bootcamp.Day03-1/ex04/salvados/lib/python3.13/site-packages/httpx/_client.py:879(send)
+
+
