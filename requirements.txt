@@ -1,0 +1,16 @@
+jupyter
+ipykernel
+
+numpy
+pandas
+scipy
+
+matplotlib
+seaborn
+plotly
+
+scikit-learn
+statsmodels
+tqdm
+requests
+openpyxl
