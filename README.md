@@ -32,8 +32,13 @@ pip install -r requirements.txt
 ```
 ---
 Запуск .py:
+MacOS
 ```bash
-python file_name.py 
+python3 file_name.py 
+```
+Windows
+```bash
+py file_name.py 
 ```
 Запуск .ipynb через VS code:
 Выбрать среду с установленными пакетами и нажать Run all
